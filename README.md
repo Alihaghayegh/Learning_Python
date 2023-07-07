@@ -7,7 +7,7 @@ Every folder is for one topic that has `main.py` and short `README.md` for the e
 - [x] Variables and data types
 - [x] Type casting
 - [x] User input
-- [ ] Math in `Python`
+- [x] Math in `Python`
 - [ ] String methods
 - [ ] if conditions
 - [ ] **Project:** Calculator program
