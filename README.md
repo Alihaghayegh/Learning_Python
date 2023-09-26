@@ -11,7 +11,7 @@ Every folder is for one topic that has `main.py` and short `README.md` for the e
 - [x] String methods
 - [x] if conditions
 - [x] **Project:** Calculator program
-- [ ] **Project:** Weight conversion
+- [x] **Project:** Weight conversion
 - [ ] **Project:** Temprature conversion
 
 
