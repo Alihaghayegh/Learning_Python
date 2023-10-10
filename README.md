@@ -13,6 +13,9 @@ Every folder is for one topic that has `main.py` and short `README.md` for the e
 - [x] **Project:** Calculator program
 - [x] **Project:** Weight conversion
 - [x] **Project:** Temprature conversion
+- [x] Logical operators
+- [x] String indexing
+- [ ]
 
 
 
